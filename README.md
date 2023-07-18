@@ -1,7 +1,7 @@
 D3D11 Test Environment
 ======================
 
-This repository contains two a dedicated Direct3D 11 developed in C++. These environments are designed to provide a platform for beginner hack programmers to practice function hooking and other techniques using the DirectX API, a popular Windows graphics API for drawing 3-dimensional objects. The goal here is to enable learning and experimentation without the risk of penalties associated with live game testing, such as kicks and bans.
+This repository contains two dedicated Direct3D 11 test environments developed in C++. These environments are designed to provide a platform for beginner hack programmers to practice function hooking and other techniques using the DirectX API, a popular Windows graphics API for drawing 3-dimensional objects. The goal here is to enable learning and experimentation without the risk of penalties associated with live game testing, such as kicks and bans.
 
 The Direct3D 11 test environment creates a window, initializes DX, and enters the main loop where messages are processed, requiring more null pointers declarations and usage of the DirectX namespace compared to D3D9. While the Direct3D 11 environment may be more complex, it provides an excellent opportunity to deepen your understanding of DirectX's intricacies.
 
