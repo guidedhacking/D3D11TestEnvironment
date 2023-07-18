@@ -60,3 +60,16 @@ This repository serves as a test environment for learning and experimenting with
 ##### What is the experience level required to use this source code?
 
 A basic understanding of C++ and Windows programming is required. Familiarity with graphics programming and DirectX is a plus, but not strictly necessary. The code is written in a straightforward manner, and I've tried to comment it as much as possible to make it easy to understand.
+
+Related Direct3D Resources​
+---------------------------
+
+-   [How to Make an ESP Hack For Any Game](https://guidedhacking.com/threads/how-to-make-an-esp-hack-for-any-game.8313/)
+-   [Release - Direct3d9 Stride Logger](https://guidedhacking.com/threads/direct3d9-stride-logger.10095/)
+-   [DirectX11 Hook and Logger](https://guidedhacking.com/threads/directx11-hook-and-logger.11910/)
+-   [Source Code - DX9 - Image Class](https://guidedhacking.com/threads/dx9-image-class.7620/)
+-   [CSGO Direct3D9 EndScene Hook](https://guidedhacking.com/threads/csgo-direct3d9-endscene-hook-d3d9-esp-tutorial-series.14570/)
+-   [Tutorial - Direct3D9 Hooking](https://guidedhacking.com/threads/directx9-hooking-need-for-speed-most-wanted-part-1.13389/)
+-   [Hooking DirectX11 - Niemand - Cyber Security](https://niemand.com.ar/2019/01/17/improving-your-cheat-template-hooking-directx11/)
+-   [How to Hook DirectX 11 - Niemand - Cyber Security](https://niemand.com.ar/2019/01/01/how-to-hook-directx-11-imgui/)
+-   [DirectX11 - How to Hook Direct3D11 & Draw Template](https://guidedhacking.com/threads/directx11-how-to-hook-direct3d11-draw-template.15252/)
