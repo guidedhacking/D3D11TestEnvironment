@@ -73,3 +73,5 @@ Related Direct3D Resources​
 -   [Hooking DirectX11 - Niemand - Cyber Security](https://niemand.com.ar/2019/01/17/improving-your-cheat-template-hooking-directx11/)
 -   [How to Hook DirectX 11 - Niemand - Cyber Security](https://niemand.com.ar/2019/01/01/how-to-hook-directx-11-imgui/)
 -   [DirectX11 - How to Hook Direct3D11 & Draw Template](https://guidedhacking.com/threads/directx11-how-to-hook-direct3d11-draw-template.15252/)
+
+GuidedHacking® - The Game Hacking Bible® - © 2025 Guided Hacking LLC. All Rights Reserved.
